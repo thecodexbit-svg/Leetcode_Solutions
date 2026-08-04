@@ -6,6 +6,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -19,6 +20,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
