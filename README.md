@@ -8,6 +8,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -42,16 +43,27 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
