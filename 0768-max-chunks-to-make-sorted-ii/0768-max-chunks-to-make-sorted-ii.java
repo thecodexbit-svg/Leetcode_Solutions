@@ -1,5 +1,9 @@
 class Solution {
     public int maxChunksToSorted(int[] arr) {
+        //idea-1 : can be solved through sorting the array -> using map -> max chunk 01 logic
+
+        //idea-2:
+        
         int[] preMax = new int[arr.length];
         preMax[0] = arr[0];
         for(int i=1 ; i<arr.length ; i++){
