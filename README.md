@@ -47,6 +47,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
