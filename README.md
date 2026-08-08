@@ -6,6 +6,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -44,6 +45,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -92,6 +94,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack
