@@ -22,6 +22,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -38,6 +39,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
