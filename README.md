@@ -97,6 +97,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -123,6 +124,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 ## Counting
 |  |
@@ -132,4 +134,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
