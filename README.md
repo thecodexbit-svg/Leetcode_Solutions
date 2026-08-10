@@ -21,6 +21,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -41,6 +42,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
