@@ -19,6 +19,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
@@ -61,6 +62,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
