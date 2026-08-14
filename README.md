@@ -6,6 +6,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
@@ -38,6 +39,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
