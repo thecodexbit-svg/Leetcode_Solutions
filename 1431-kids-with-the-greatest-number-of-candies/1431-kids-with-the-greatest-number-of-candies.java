@@ -5,8 +5,8 @@ class Solution {
             greatest = Math.max(greatest , c);
         }
         List<Boolean> ans = new ArrayList<>();
-        for(int i=0 ; i<candies.length ; i++){
-            if(candies[i]+extraCandies >= greatest){
+        for(int can : candies){
+            if(can+extraCandies >= greatest){
                 ans.add(true);
             }else{
                 ans.add(false);
