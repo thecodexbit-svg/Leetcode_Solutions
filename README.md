@@ -48,6 +48,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -107,6 +108,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -173,4 +175,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
