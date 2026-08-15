@@ -25,6 +25,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -161,4 +163,12 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
