@@ -34,6 +34,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1920-build-array-from-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -162,6 +163,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## String
