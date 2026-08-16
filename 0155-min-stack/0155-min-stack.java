@@ -16,24 +16,16 @@ class MinStack {
     }
     
     public void pop() {
-        if(!st.isEmpty()){
-            st.pop();
-            minst.pop();
-        }
+        st.pop();
+        minst.pop();
     }
     
     public int top() {
-        if(!st.isEmpty()){
-            return st.peek();
-        }
-        return -1;
+        return st.peek();
     }
     
     public int getMin() {
-        if(!st.isEmpty()){
-            return minst.peek();
-        }
-        return -1;
+        return minst.peek();
     }
 }
 
