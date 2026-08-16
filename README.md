@@ -117,6 +117,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -159,6 +160,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## String
 |  |
 | ------- |
@@ -198,19 +200,27 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
