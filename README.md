@@ -115,6 +115,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
+| [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
@@ -201,12 +202,15 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
