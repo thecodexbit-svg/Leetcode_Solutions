@@ -71,6 +71,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -100,6 +101,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -127,6 +129,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
@@ -223,4 +226,12 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
