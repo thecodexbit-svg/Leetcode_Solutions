@@ -124,11 +124,13 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
