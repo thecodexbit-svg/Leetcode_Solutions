@@ -1,18 +1,17 @@
 class Solution {
     public int countPrimes(int n) {
         if(n<2) return 0;
-        boolean[] arr = new boolean[n+1];
-        Arrays.fill(arr , true);
+        boolean[] isComposite = new boolean[n+1];
         for(int i=2 ; i*i<n ; i++){
-            if(arr[i] == true){
+            if(!isComposite[i]){
                 for(int j=i*i ; j<n ; j+=i){
-                    arr[j] = false;
+                    isComposite[j] = true;
                 }
             }
         }
         int ans = 0;
         for(int i=2 ; i<n ; i++){
-            if(arr[i] == true) ans++;
+            if(!isComposite[i]) ans++;
         }
         return ans;
     }
