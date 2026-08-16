@@ -122,6 +122,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
