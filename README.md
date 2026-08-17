@@ -127,6 +127,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
+| [1323-maximum-69-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
@@ -158,6 +159,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1323-maximum-69-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 ## Monotonic Stack
 |  |
 | ------- |
