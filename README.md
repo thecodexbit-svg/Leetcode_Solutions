@@ -12,6 +12,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
