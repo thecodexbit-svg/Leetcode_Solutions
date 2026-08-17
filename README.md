@@ -29,6 +29,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -88,6 +89,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -193,10 +196,12 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Memoization
 |  |
 | ------- |
@@ -240,4 +245,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
