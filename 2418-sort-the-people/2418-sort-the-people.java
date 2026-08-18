@@ -6,15 +6,15 @@ class Solution {
             max = Math.max(max , h);
             min = Math.min(min , h);
         }
-        String[] sort = new String[max+1];
+        String[] sort = new String[max - min + 1];
         for(int i=0 ; i<names.length ; i++){
-            sort[heights[i]] = names[i];
+            sort[heights[i] - min] = names[i];
         }
         String[] ans = new String[names.length];
         int idx = 0;
         for(int h = max ; h>=min ; h--){
-            if(sort[h]!=null){
-                ans[idx++] = sort[h];
+            if(sort[h - min]!=null){
+                ans[idx++] = sort[h - min];
             }
         } 
         return ans;
