@@ -13,6 +13,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0027-remove-element](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -111,6 +112,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
