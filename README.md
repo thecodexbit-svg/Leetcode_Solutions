@@ -131,6 +131,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
