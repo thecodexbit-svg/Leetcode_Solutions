@@ -6,6 +6,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
@@ -88,6 +89,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
