@@ -9,20 +9,31 @@ class Solution {
         map.put('D' , 500);
         map.put('M' , 1000);
 
+        // int ans = 0;
+        // int lastInt = 0;
+        // for(int i=0 ; i<s.length() ; i++){
+        //     char ch = s.charAt(i);
+        //     if(i!=0 && (map.get(ch) > map.get(s.charAt(i-1))) ){
+        //         int temp = map.get(ch) - lastInt;
+        //         ans -= lastInt;
+        //         ans += temp;
+        //     }
+        //     else{
+        //         ans += map.get(ch);
+        //     }
+        //     lastInt = map.get(s.charAt(i));
+        // }   
+        // return ans;
+
         int ans = 0;
-        int lastInt = 0;
         for(int i=0 ; i<s.length() ; i++){
-            char ch = s.charAt(i);
-            if(i!=0 && (map.get(ch) > map.get(s.charAt(i-1))) ){
-                int temp = map.get(ch) - lastInt;
-                ans -= lastInt;
-                ans += temp;
+            int val = map.get(s.charAt(i));
+            if(i+1 < s.length() && val < map.get(s.charAt(i+1))){
+                ans -= val;
+            }else{
+                ans += val;
             }
-            else{
-                ans += map.get(ch);
-            }
-            lastInt = map.get(s.charAt(i));
-        }   
+        }
         return ans;
     }
 }
