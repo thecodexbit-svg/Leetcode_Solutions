@@ -16,6 +16,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -59,6 +60,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0070-climbing-stairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
