@@ -44,6 +44,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -111,6 +112,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -155,6 +157,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 | [1323-maximum-69-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3516-find-closest-person](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3516-find-closest-person) |
@@ -219,6 +222,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
