@@ -31,6 +31,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -106,6 +107,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
