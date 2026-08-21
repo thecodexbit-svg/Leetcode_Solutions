@@ -7,16 +7,8 @@ class Solution {
         int ans = 0;
         for(int val : fre){
             int n = val - 1;
-            ans += sum(n);
+            ans += (n*(n+1))/2;
         }
         return ans;
-    }
-    private int sum(int n){
-        int sum = 0;
-        while(n>0){
-            sum += n;
-            n--;
-        }
-        return sum;
     }
 }
