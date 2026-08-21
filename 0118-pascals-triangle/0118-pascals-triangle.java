@@ -7,8 +7,7 @@ class Solution {
                 if(j==0 || j==i){
                     cl.add(1);
                 }else{
-                    int ele = ans.get(i-1).get(j)+ans.get(i-1).get(j-1);
-                    cl.add(ele);
+                    cl.add(ans.get(i-1).get(j) + ans.get(i-1).get(j-1));
                 }
             }
             ans.add(cl);
