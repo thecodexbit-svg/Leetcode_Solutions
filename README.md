@@ -14,6 +14,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0031-next-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
@@ -106,6 +107,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0001-two-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -208,6 +210,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 ## Simulation
