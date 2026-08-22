@@ -15,6 +15,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0001-two-sum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -128,6 +130,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -214,6 +217,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
