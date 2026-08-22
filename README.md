@@ -27,6 +27,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -62,6 +63,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -107,6 +109,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -136,6 +139,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -226,6 +230,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -286,6 +291,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -298,4 +304,12 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
