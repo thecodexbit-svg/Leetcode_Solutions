@@ -46,6 +46,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -146,6 +147,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
