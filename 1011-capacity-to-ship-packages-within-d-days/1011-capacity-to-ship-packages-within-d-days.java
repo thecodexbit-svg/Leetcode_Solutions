@@ -10,9 +10,9 @@ class Solution {
         while(min < max){
             int cap = min + (max-min)/2;
             int d = checking(weights , cap);
-            if (d <= days) {
+            if(d <= days) {
                 max = cap;
-            } else {
+            }else {
                 min = cap + 1;
             }
         }
