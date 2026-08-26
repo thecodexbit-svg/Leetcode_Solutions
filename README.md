@@ -20,6 +20,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -124,6 +125,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0013-roman-to-integer](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -238,6 +240,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0036-valid-sudoku](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
