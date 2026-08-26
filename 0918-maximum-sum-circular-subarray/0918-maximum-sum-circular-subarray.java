@@ -15,13 +15,13 @@ class Solution {
             minSum = Math.min(minSum , currentSum);
             totalSum += nums[i];
         }
-        int ans1 = totalSum - minSum;
+        int circularSum = totalSum - minSum;
         
         if(maxSum<0){
             return maxSum;
         }
         
-        return Math.max(ans1 , maxSum);
+        return Math.max(circularSum , maxSum);
         
     }
 }
