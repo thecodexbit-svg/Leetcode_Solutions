@@ -21,6 +21,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
