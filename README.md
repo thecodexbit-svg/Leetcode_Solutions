@@ -40,6 +40,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -133,6 +134,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
@@ -191,6 +193,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0189-rotate-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1175-prime-arrangements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1175-prime-arrangements) |
 | [1323-maximum-69-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
@@ -210,6 +213,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0295-find-median-from-data-stream](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Stack
 |  |
 | ------- |
@@ -352,4 +356,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
