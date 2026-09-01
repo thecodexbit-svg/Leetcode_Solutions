@@ -1,5 +1,5 @@
 class RandomizedSet {
-    ArrayList<Integer> list;
+    List<Integer> list;
     HashMap<Integer , Integer> map;
     Random random;
     public RandomizedSet() {
@@ -23,9 +23,10 @@ class RandomizedSet {
         }
         int idx = map.get(val);
         int last = list.get(list.size()-1);
+
+        list.set(idx , last);
+        map.put(last , idx);
         
-        list.set(idx,last);
-        map.put(last, idx);
         list.remove(list.size()-1);
         map.remove(val);
 
