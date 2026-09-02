@@ -81,6 +81,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -207,6 +208,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
