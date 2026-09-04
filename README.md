@@ -34,6 +34,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0189-rotate-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -211,6 +212,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0137-single-number-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
