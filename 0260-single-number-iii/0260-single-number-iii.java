@@ -1,6 +1,6 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        if(nums.length <= 2) return nums;
+        //if(nums.length <= 2) return nums;
         int ab = 0;
         for(int num : nums){
             ab ^= num;
