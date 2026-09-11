@@ -57,6 +57,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0905-sort-array-by-parity](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
@@ -241,6 +242,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | ------- |
 | [0054-spiral-matrix](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
