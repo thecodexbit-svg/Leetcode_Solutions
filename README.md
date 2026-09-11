@@ -148,6 +148,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0525-contiguous-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1122-relative-sort-array](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
@@ -226,6 +227,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0303-range-sum-query-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 | [0682-baseball-game](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
@@ -380,4 +383,8 @@ A collection of my accepted LeetCode solutions in Java, automatically synced to 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/thecodexbit-svg/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
